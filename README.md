@@ -8,7 +8,7 @@ This project is a personal webpage to introduce my self.
 #### Technologies
 Webpage is created with html. 
 
-#### Usage
+#### Running it Locally
 1. Clone this repository:   
 `git clone https://github.com/ShoghikKhachatryan/aboutMe.git`
 2. Navigate to the project directory:
