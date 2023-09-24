@@ -5,9 +5,35 @@ h1 {
     color: white;
     font-family:courier; 
     text-align:center;
+    justify-content: center;
 }
 p {
     color: white;
     font-family:courier;
     text-align:center;
 }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: right;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar a {
+    color: black;
+}
+
